@@ -10,7 +10,7 @@ from Fibonacci import Fibbonacci
 
 
 class Fibonacci_should(unittest.TestCase):
-    def test_number_0_returns_1(self):
+    def test_position_0_returns_1(self):
         #Arrange
         number = 0
 
