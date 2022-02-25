@@ -1,3 +1,3 @@
 class Fibbonacci:
     def act(self, number):
-        pass
+        return 1
