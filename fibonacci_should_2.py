@@ -4,7 +4,7 @@
 #####OSCAR#####OSCAR#####OSCAR#####OSCAR#####OSCAR#####OSCAR#####OSCAR#####OSCAR#####OSCAR#####OSCAR#####OSCAR
 #####OSCAR#####OSCAR#####OSCAR#####OSCAR#####OSCAR#####OSCAR#####OSCAR#####OSCAR#####OSCAR#####OSCAR#####OSCAR
 
-##Como usar pytest en pycharm:
+##Como usar pytest en pycharm en lugar de unittest:
 # -> ctrl+alt+s
 # -> escribir pytest en el buscador
 # -> cambiar el framework de testing por defecto a pytest

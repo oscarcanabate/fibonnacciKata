@@ -29,3 +29,13 @@ class Fibonacci_should(unittest.TestCase):
 
         #Assert
         self.assertEqual(result,1)
+
+    def test_position_15_returns_610(self):
+        #Arrange
+        number = 15
+
+        #Act
+        result = Fibbonacci().act(number)
+
+        #Assert
+        self.assertEqual(result,610)
